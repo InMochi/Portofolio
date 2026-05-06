@@ -57,7 +57,6 @@ function Navbar() {
         {/* Desktop Nav */}
         <nav className="hidden md:flex items-center gap-1">
           <NavbarLink to="/" label="Home" end />
-          <NavbarLink to="/about" label="About" />
           <NavbarLink to="/contact" label="Contact" />
         </nav>
         
