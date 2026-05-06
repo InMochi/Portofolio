@@ -295,10 +295,10 @@ export default function LandingPage() {
                         </Link>
 
                         <div className="flex items-center gap-3 text-slate-400">
-                            <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-white transition-colors duration-200">
+                            <a href="https://github.com/InMochi" target="_blank" rel="noreferrer" className="hover:text-white transition-colors duration-200">
                                 <GithubIcon />
                             </a>
-                            <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="hover:text-white transition-colors duration-200">
+                            <a href="https://www.linkedin.com/in/tony-felicio-farrel-950b43335/?_l=en_US" target="_blank" rel="noreferrer" className="hover:text-white transition-colors duration-200">
                                 <LinkedinIcon />
                             </a>
                         </div>
