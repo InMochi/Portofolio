@@ -78,10 +78,8 @@ function Navbar() {
       >
         <nav className="flex flex-col items-start gap-1 px-6">
           <NavbarLink to="/" label="Home" end onClick={() => setMenuOpen(false)} />
-          <NavbarLink to="/about" label="About" onClick={() => setMenuOpen(false)} />
           <NavbarLink to="/contact" label="Contact" onClick={() => setMenuOpen(false)} />
         </nav>
-
       </div>
     </header>
   )
