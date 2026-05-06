@@ -262,7 +262,7 @@ export default function ContactPage() {
 
   return (
     <MainLayout>
-      <section className="relative bg-blue-950 min-h-screen px-10 md:px-24 py-24 overflow-hidden">
+      <section className="relative bg-blue-950 min-h-screen px-10 md:px-24 py-10 overflow-hidden">
 
         {/* Background blobs */}
         <div className="absolute top-[-60px] right-[-60px] w-[360px] h-[360px] rounded-full bg-blue-700 opacity-10 blur-3xl pointer-events-none" />
