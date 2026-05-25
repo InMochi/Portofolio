@@ -228,7 +228,7 @@ function Person() {
     return (
         <img
             src={PersonImage}
-            className="relative w-80 md:w-[420px] object-cover"
+            className="relative w-80 md:w-[420px] object-cover rounded-2xl"
             alt="Tony Felicio Farrel"
         />
     )
